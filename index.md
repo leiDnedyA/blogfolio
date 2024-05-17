@@ -6,7 +6,21 @@ layout: default
 title: Home
 ---
 
-My name is Ayden Diel, and I'm a CS undergrad student at UMass Boston.
+My name is Ayden Diel, and I'm a CS undergrad student and freelance fullstack dev.
+
+I started tinkering with computers when I was a kid, and never stopped. Right now I'm
+working towards my CS undergrad degree, but on top of that 
+- I'm a freelancer
+- I run the UMass Boston CS Club 
+- I do research
+- [I build cool stuff!](https://www.qrpigeon.pics/)
+
+Stuff I like: 
+- Linux
+- Neovim / Vim
+
+
+
 ### Check out some of my posts!
 
 <ul>
