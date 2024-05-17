@@ -10,7 +10,8 @@ baseurl: "/blogfolio" # the subpath of your site, e.g. /blog
 domain: "aydendiel.dev"
 url: "https://aydendiel.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  leiDnedyA
+github_username: leiDnedyA
+linkedin: "https://www.linkedin.com/in/ayden-diel-9b0972191/" 
 github: [metadata]
 
 # Build settings
@@ -18,4 +19,5 @@ theme: minima
 plugins:
   - jekyll-titles-from-headings
 
-
+social_links:
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/ayden-diel-9b0972191/" }

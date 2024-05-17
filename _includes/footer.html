@@ -1,11 +1,13 @@
 
-<div>
-  {{ site.email }}
-    <footer>
-      <p>&copy; {{ site.time | date: "%y" }} {{ site.title }}. all rights reserved.</p>
-      <ul>
-        <li><a href="{{ site.github }}">github</a></li>
-        <li><a href="{{ site.twitter }}">twitter</a></li>
-      </ul>
-    </footer>
-</div>
+<footer>
+  <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  {{ site.title }}&copy;
+  <span id="copyright">
+    <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear() + '.'))</script>
+  </span>
+   all rights reserved.</p>
+  <p>
+    <a href="https://github.com/leiDnedyA/">github</a>
+    <a href="https://www.linkedin.com/in/ayden-diel-9b0972191/">linkedin</a>
+  </p>
+</footer>
