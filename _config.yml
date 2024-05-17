@@ -11,6 +11,7 @@ domain: "aydendiel.dev"
 url: "https://aydendiel.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  leiDnedyA
+github: [metadata]
 
 # Build settings
 theme: minima

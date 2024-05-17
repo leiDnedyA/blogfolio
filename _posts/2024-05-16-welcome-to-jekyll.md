@@ -1,8 +1,17 @@
 ---
 title: Building my Jekyll blog
-layout: default
+layout: post
 ---
 
-## Test
+Do you ever feel? Like a plastic bag?
 
-This is my first blogpost!
+```python
+def func():
+    pass
+```
+
+- Your
+- Mom
+
+1. one
+1. two
